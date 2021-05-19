@@ -28,7 +28,7 @@ and login
     ```
     firebase init
     ```
-6) Navigate down to hosting on Firebase than click using an existing project and click the name of the project that you created earlier. For your public directory you need to choose your build folder to make your website more optimized and you want to configure your website as a single-page app. 
+6) Navigate down to hosting then click using an existing project and click the name of the project that you created earlier. For your public directory you need to choose your build folder to make your website more optimized and you want to configure your website as a single-page app. 
 
 7) Now type the  following commands to finish the hosting setup: 
     ```

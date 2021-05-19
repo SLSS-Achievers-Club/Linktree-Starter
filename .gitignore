@@ -1,1 +1,8 @@
 node_modules 
+build
+.eslintcache
+.firebaserc
+firebase.json
+.firebase
+package-lock.json
+yarn.lock
